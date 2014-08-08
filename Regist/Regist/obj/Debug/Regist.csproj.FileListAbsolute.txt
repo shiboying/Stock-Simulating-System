@@ -1,0 +1,35 @@
+c:\users\zebra\documents\visual studio 2010\Projects\Regist\Regist\bin\Debug\Regist.dll
+c:\users\zebra\documents\visual studio 2010\Projects\Regist\Regist\bin\Debug\Regist.pdb
+c:\users\zebra\documents\visual studio 2010\Projects\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+c:\users\zebra\documents\visual studio 2010\Projects\Regist\Regist\obj\Debug\Regist.dll
+c:\users\zebra\documents\visual studio 2010\Projects\Regist\Regist\obj\Debug\Regist.pdb
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\Regist\Regist\bin\Debug\Regist.dll
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\Regist\Regist\bin\Debug\Regist.pdb
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\Regist\Regist\obj\Debug\Regist.dll
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\Regist\Regist\obj\Debug\Regist.pdb
+C:\Users\Zebra\Desktop\StockSystem\Regist\Regist\bin\Debug\Regist.dll
+C:\Users\Zebra\Desktop\StockSystem\Regist\Regist\bin\Debug\Regist.pdb
+C:\Users\Zebra\Desktop\StockSystem\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\StockSystem\Regist\Regist\obj\Debug\Regist.dll
+C:\Users\Zebra\Desktop\StockSystem\Regist\Regist\obj\Debug\Regist.pdb
+D:\My Documents\StockSystem\Regist\Regist\bin\Debug\Regist.dll
+D:\My Documents\StockSystem\Regist\Regist\bin\Debug\Regist.pdb
+D:\My Documents\StockSystem\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\StockSystem\Regist\Regist\obj\Debug\Regist.dll
+D:\My Documents\StockSystem\Regist\Regist\obj\Debug\Regist.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Regist\Regist\bin\Debug\Regist.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Regist\Regist\bin\Debug\Regist.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\Regist.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\Regist.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Regist\Regist\bin\Debug\Regist.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Regist\Regist\bin\Debug\Regist.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\Regist.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\Regist.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Regist\Regist\bin\Debug\Regist.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Regist\Regist\bin\Debug\Regist.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\Regist.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Regist\Regist\obj\Debug\Regist.pdb

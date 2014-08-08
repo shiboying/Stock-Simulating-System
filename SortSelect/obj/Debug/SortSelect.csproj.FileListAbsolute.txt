@@ -1,0 +1,36 @@
+E:\大三上\c#(O)\SpringWork1\SortSelect\obj\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\SpringWork1\SortSelect\bin\Debug\SortSelect.dll
+E:\大三上\c#(O)\SpringWork1\SortSelect\bin\Debug\SortSelect.pdb
+E:\大三上\c#(O)\SpringWork1\SortSelect\obj\Debug\SortSelect.dll
+E:\大三上\c#(O)\SpringWork1\SortSelect\obj\Debug\SortSelect.pdb
+C:\Users\Zebra\Desktop\SpringWork1\SortSelect\bin\Debug\SortSelect.dll
+C:\Users\Zebra\Desktop\SpringWork1\SortSelect\bin\Debug\SortSelect.pdb
+C:\Users\Zebra\Desktop\SpringWork1\SortSelect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\SpringWork1\SortSelect\obj\Debug\SortSelect.dll
+C:\Users\Zebra\Desktop\SpringWork1\SortSelect\obj\Debug\SortSelect.pdb
+E:\大三上\c#(O)\new Springwork1\SpringWork1\SortSelect\bin\Debug\SortSelect.dll
+E:\大三上\c#(O)\new Springwork1\SpringWork1\SortSelect\bin\Debug\SortSelect.pdb
+E:\大三上\c#(O)\new Springwork1\SpringWork1\SortSelect\obj\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\new Springwork1\SpringWork1\SortSelect\obj\Debug\SortSelect.dll
+E:\大三上\c#(O)\new Springwork1\SpringWork1\SortSelect\obj\Debug\SortSelect.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\SortSelect.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\SortSelect.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\user.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\user.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\obj\Debug\SortSelect.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\SortSelect\obj\Debug\SortSelect.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\SortSelect.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\SortSelect.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\obj\Debug\SortSelect.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\obj\Debug\SortSelect.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\user.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\SortSelect\bin\Debug\user.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\bin\Debug\SortSelect.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\bin\Debug\SortSelect.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\bin\Debug\user.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\bin\Debug\user.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\obj\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\obj\Debug\SortSelect.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\SortSelect\obj\Debug\SortSelect.pdb

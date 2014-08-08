@@ -1,0 +1,173 @@
+E:\大三上\c#(O)\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+E:\大三上\c#(O)\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+E:\大三上\c#(O)\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\bin\Debug\Login.dll
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\bin\Debug\Regist.dll
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\bin\Debug\Login.pdb
+C:\Users\Zebra\Documents\Visual Studio 2010\StockSystem\StockSystem\bin\Debug\Regist.pdb
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\bin\Debug\Login.dll
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\bin\Debug\Regist.dll
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\bin\Debug\Login.pdb
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\bin\Debug\Regist.pdb
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zebra\Desktop\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+D:\My Documents\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+D:\My Documents\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+D:\My Documents\StockSystem\StockSystem\bin\Debug\Login.dll
+D:\My Documents\StockSystem\StockSystem\bin\Debug\Regist.dll
+D:\My Documents\StockSystem\StockSystem\bin\Debug\Login.pdb
+D:\My Documents\StockSystem\StockSystem\bin\Debug\Regist.pdb
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.ManageLogin.resources
+D:\My Documents\StockSystem\StockSystem\obj\x86\Debug\StockSystem.sendfinish.resources
+D:\My Documents\StockSystem\StockSystem\bin\Debug\user.dll
+D:\My Documents\StockSystem\StockSystem\bin\Debug\user.pdb
+D:\My Documents\StockSystem\StockSystem\bin\Debug\Stock.dll
+D:\My Documents\StockSystem\StockSystem\bin\Debug\Stock.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.ManageLogin.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.sendfinish.resources
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\Login.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\Regist.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\Stock.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\user.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\Login.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\Regist.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\Stock.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\bin\Debug\user.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Login.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Regist.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Stock.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\user.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Login.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Regist.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Stock.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\user.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.altinfo.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.astockbuy.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.astocksell.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.bstockbuy.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.bstocksell.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.ManageLogin.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.sendfinish.resources
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\SortSelect.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\SortSelect.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\stockprocess.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\stockprocess.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.altinfo.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.astockbuy.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.astocksell.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.bstockbuy.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.bstocksell.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.ManageLogin.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.sendfinish.resources
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\SortSelect.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Stock.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\user.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\SortSelect.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\Stock.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\user.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\stockprocess.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\StockSystem\bin\Debug\stockprocess.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.exe
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\StockSystem.exe
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\StockSystem.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\SortSelect.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\Stock.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\stockprocess.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\user.dll
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\SortSelect.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\Stock.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\stockprocess.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\bin\Debug\user.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.altinfo.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.astockbuy.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.astocksell.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.bstockbuy.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.bstocksell.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.forget.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Spebra.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.login.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.ManageLogin.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.Properties.Resources.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.register.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\StockSystem.sendfinish.resources
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大三上\c#(O)\最后大实验\StockSystem折线图\StockSystem\StockSystem\obj\x86\Debug\GenerateResource.write.1.tlog

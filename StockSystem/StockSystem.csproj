@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8983930E-7716-48C6-B090-39742AF9023D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StockSystem</RootNamespace>
+    <AssemblyName>StockSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Stock">
+      <HintPath>..\Stock\obj\Debug\Stock.dll</HintPath>
+    </Reference>
+    <Reference Include="stockprocess">
+      <HintPath>..\stockprocess\obj\Debug\stockprocess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="user">
+      <HintPath>..\user\obj\Debug\user.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="altinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="altinfo.Designer.cs">
+      <DependentUpon>altinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="astockbuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="astockbuy.Designer.cs">
+      <DependentUpon>astockbuy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="astocksell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="astocksell.Designer.cs">
+      <DependentUpon>astocksell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bstockbuy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bstockbuy.Designer.cs">
+      <DependentUpon>bstockbuy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bstocksell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bstocksell.Designer.cs">
+      <DependentUpon>bstocksell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forget.Designer.cs">
+      <DependentUpon>forget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageLogin.designer.cs">
+      <DependentUpon>ManageLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sendfinish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sendfinish.designer.cs">
+      <DependentUpon>sendfinish.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="altinfo.resx">
+      <DependentUpon>altinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="astockbuy.resx">
+      <DependentUpon>astockbuy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="astocksell.resx">
+      <DependentUpon>astocksell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bstockbuy.resx">
+      <DependentUpon>bstockbuy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bstocksell.resx">
+      <DependentUpon>bstocksell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forget.resx">
+      <DependentUpon>forget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageLogin.resx">
+      <DependentUpon>ManageLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sendfinish.resx">
+      <DependentUpon>sendfinish.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\对称1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8382230.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SortSelect\SortSelect.csproj">
+      <Project>{485E728B-5F15-43FE-B241-1EC08E318B27}</Project>
+      <Name>SortSelect</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

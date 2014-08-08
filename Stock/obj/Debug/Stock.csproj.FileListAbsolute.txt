@@ -1,0 +1,20 @@
+D:\My Documents\StockSystem\Stock\bin\Debug\Stock.dll
+D:\My Documents\StockSystem\Stock\bin\Debug\Stock.pdb
+D:\My Documents\StockSystem\Stock\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\StockSystem\Stock\obj\Debug\Stock.dll
+D:\My Documents\StockSystem\Stock\obj\Debug\Stock.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Stock\bin\Debug\Stock.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Stock\bin\Debug\Stock.pdb
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Stock\obj\Debug\ResolveAssemblyReference.cache
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Stock\obj\Debug\Stock.dll
+E:\大三上\c#(O)\最后大实验\StockSystem更新\StockSystem\Stock\obj\Debug\Stock.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Stock\bin\Debug\Stock.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Stock\bin\Debug\Stock.pdb
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Stock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Stock\obj\Debug\Stock.dll
+C:\Users\Spring\Desktop\StockSystem更新\StockSystem\Stock\obj\Debug\Stock.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Stock\bin\Debug\Stock.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Stock\bin\Debug\Stock.pdb
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Stock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Stock\obj\Debug\Stock.dll
+C:\Users\Zebra\Desktop\StockSystem更新\StockSystem\Stock\obj\Debug\Stock.pdb
